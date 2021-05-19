@@ -16,7 +16,7 @@ function preload()
 	fairy1Img = loadAnimation("images/fairyImage1.png","images/fairyImage2.png");
 	fairy2Img = loadAnimation("images/fairy.png");
 	//load animation for fairy here
-	fairyVoice = loadSound("sound/joyMusic.mp3");
+	fairyVoice = loadSound("sound/JoyMusic.mp3");
 }
 
 function setup() {
